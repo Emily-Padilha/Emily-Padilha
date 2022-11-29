@@ -3,9 +3,9 @@
 Tenho 23 anos e embarquei nessa em 2021, por um misto de curiosidade e demanda (muito mais curiosidade, na real).
 
 <div align="center">
-  <a href="https://github.com/Emily-Padilha">
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=Emily-Padilha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emily-Padilha&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/emily-padilha">
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=emily-padilha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emily-padilha&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
