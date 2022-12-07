@@ -1,6 +1,6 @@
 ## Oii! Eu sou a Emily Padilha, desenvolvedora FRONT-END em formação!
 
-Tenho 23 anos e embarquei nessa em 2021, por um misto de curiosidade e demanda (muito mais curiosidade, na real).
+Tenho 23 anos e embarquei nessa em 2022, por um misto de curiosidade e demanda (muito mais curiosidade, na real).
 
 <div align="center">
   <a href="https://github.com/emily-padilha">
